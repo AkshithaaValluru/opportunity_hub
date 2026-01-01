@@ -1,0 +1,5 @@
+{
+  "name": "OpportunityHub",
+  "description": "A centralized platform for student opportunities powered by Gemini. Features AI-driven search, categorization, and validation of internships, hackathons, and jobs.",
+  "requestFramePermissions": []
+}
